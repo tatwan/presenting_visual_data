@@ -1,5 +1,30 @@
 # Presenting Visual Data
 
+### **Tools** & Resources
+
+**Data Visualization**
+
+* [Power BI ](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+**Mockups & Design** 
+
+* [Mockup.ai](https://www.mokkup.ai)
+* [Canva](https://www.canva.com)
+* [Draw.io](http://draw.io)
+* [Figma](https://www.figma.com/)
+* [Moqups](https://moqups.com)
+
+**Visual Vocabulary**
+
+* https://ft-interactive.github.io/visual-vocabulary/
+* https://www.tableau.com/solutions/gallery/visual-vocabulary
+* https://journalismcourses.org/wp-content/uploads/2020/07/Visual-vocabulary.pdf
+
+**Power BI Galleries**
+
+* [Themes Gallery](https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery)
+* [Data Stories Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+
 ## In the Presenting Visual Data training course, you'll learn:
 
 ### Data Visualization & Storytelling Concepts  
