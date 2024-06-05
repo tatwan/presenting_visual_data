@@ -106,9 +106,13 @@ Note the time slider (zoom slider)
 
 ![image-20240605135503805](images/image-20240605135503805.png)
 
-### Challenge 2
+### Challenge 2 - Forecasting
 
 ![image-20240605140036080](images/image-20240605140036080.png)
 
 
+
+### Challenge 3 - Anomalies
+
+![image-20240605140958765](images/image-20240605140958765.png)
 
