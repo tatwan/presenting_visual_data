@@ -4,6 +4,8 @@
 
 ## Basic Pandas plotting
 
+![image-20240607154023117](images/image-20240607154023117.png)
+
 ![image-20240606142716821](images/image-20240606142716821.png)
 
 ```python
@@ -28,6 +30,8 @@ plt.show()
 
 ## Seaborn Boxplot with Slicers
 
+![image-20240607154042718](images/image-20240607154042718.png)
+
 ![image-20240606142754444](images/image-20240606142754444.png)
 
 ```python
@@ -48,6 +52,8 @@ plt.show()
 ```
 
 ## Seaborn Violinplot with Slicers
+
+![image-20240607154054417](images/image-20240607154054417.png)
 
 ![image-20240606142830879](images/image-20240606142830879.png)
 
@@ -71,6 +77,8 @@ plt.show()
 
 ### Seaborn Jointplot with Slicers
 
+![image-20240607154113920](images/image-20240607154113920.png)
+
 ![image-20240606142906764](images/image-20240606142906764.png)
 
 ```python
@@ -92,6 +100,8 @@ plt.show()
 
 
 ## Statsmodels with other native charts
+
+![image-20240607154132412](images/image-20240607154132412.png)
 
 ![image-20240606143930694](images/image-20240606143930694.png)
 
